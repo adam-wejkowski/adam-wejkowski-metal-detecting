@@ -1,5 +1,3 @@
-adam-wejkowski-metal-detecting
-
 # Metal Detecting
 
 My first webpage about my favourite hobby, metal detecting.
